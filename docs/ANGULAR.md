@@ -1,11 +1,9 @@
 # Angular
 
-## compiled output
 ```gitignore
+# compiled output
 /dist
-```
 
-## dependencies
-```gitignore
+# dependencies
 /node_modules
 ```
