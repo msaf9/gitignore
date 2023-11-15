@@ -8,6 +8,7 @@
 - [License](#license)
 
 ## Introduction
+Using gitignore, a developer can intentionally do not track the files they don't want to be on a remote repository.
 
 ## Technologies
 
