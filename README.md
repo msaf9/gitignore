@@ -1,7 +1,9 @@
 <h1> gitignore </h1>
 
+<h2>Table of contents</h2>
+
 - [Introduction](#introduction)
-- [Technologies](#technologies)
+- [VCS](#vcs)
 - [Project status](#project-status)
 - [Installation](#installation)
   - [Get repository](#get-repository)
@@ -10,8 +12,7 @@
 ## Introduction
 Using gitignore, a developer can intentionally do not track the files they don't want to be on a remote repository.
 
-## Technologies
-
+## VCS
 - git
 - GitHub
 
