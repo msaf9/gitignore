@@ -1,6 +1,6 @@
 # C
 
-```git
+```gitignore
 # Object files
 *.o
 
