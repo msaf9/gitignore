@@ -4,3 +4,4 @@
 - [C](C.md)
 - [Java](JAVA.md)
 - [Spring Boot](SPRINGBOOT.md)
+- [TypeScript](TYPESCRIPT.md)
