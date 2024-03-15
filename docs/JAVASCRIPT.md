@@ -1,3 +1,6 @@
+# JavaScript
+
+```gitignore
 # System Files
 .DS_Store
 
@@ -6,3 +9,4 @@
 
 # Logs
 *.log
+```
