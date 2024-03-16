@@ -6,4 +6,7 @@
 
 # dependencies
 /node_modules
+
+# logs
+*.log
 ```
