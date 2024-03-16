@@ -25,7 +25,7 @@ Using gitignore, a developer can intentionally do not track the files they don't
 ### Get repository
 
 ```git
-git clone https://github.com/msaf9/gitignore
+git clone https://github.com/msaf9/gitignore.git
 cd gitignore
 ```
 
