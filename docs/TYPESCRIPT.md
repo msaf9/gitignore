@@ -6,4 +6,7 @@ node_modules/
 
 # Cross-compiled JavaScript code
 *.js
+
+# Logs
+*.log
 ```
