@@ -34,3 +34,5 @@ cd gitignore
 ```
 
 ## License
+
+[MIT LICENSE](LICENSE)
