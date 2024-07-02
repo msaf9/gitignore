@@ -9,4 +9,7 @@
 
 # logs
 *.log
+
+# miscellaneous
+.DS_Store
 ```
