@@ -12,4 +12,7 @@
 
 # miscellaneous
 .DS_Store
+
+# Ignore cache created with the Angular CLI.
+.angular/
 ```
